@@ -1,0 +1,115 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  margin:0;
+  text-align: center;
+  background-color:#ddf3f5;
+}
+h1
+{
+  font-size:70px;
+  width:20%;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size:20px;
+  color:#66BFBF;
+}
+#pg
+{
+  color:#1f4068;
+  font-weight: normal;
+}
+h3
+{
+  font-family: 'Roboto', sans-serif;
+  color: #63b7af;
+}
+hr{
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;;
+  width:10%;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.m2
+{
+zoom:250%;
+}
+.s1 {
+ background-color: #01a9b4;
+}
+.profile
+{
+  border-radius: 100%;
+  padding: 50px 0;
+  zoom:120%;
+}
+.intro
+{
+  width:30%;
+  margin:auto;
+}
+.code{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.food
+{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.top-container
+{
+    background-color:#ddf3f5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud
+{
+position: absolute;
+right:400px;
+top:20px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:400px;
+  bottom:200px;
+}
+
+
+.bottom-container
+{
+background-color: #c3edea;
+  line-height: 2;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin:0;
+}
+.footer-link
+{
+  margin:0 20px 0 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.footer-link:hover
+{
+  color:#086972;
+}
+.contact{
+  color:#4f8a8b;
+}
